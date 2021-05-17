@@ -44,8 +44,8 @@ public class ConsumerExample3 {
 	}
 
 	public List<Stud> populateStudentList() {
-		List<Stud> studentList = Arrays.asList(new Stud("Abdul", 31, 60),
-				new Stud("Waheed", 29, 90), new Stud("DummyUser", 20, 80),
+		List<Stud> studentList = Arrays.asList(new Stud("Akhtar", 31, 60),
+				new Stud("Atik", 29, 90), new Stud("DummyUser", 20, 80),
 				new Stud("Adam", 25, 47));
 		return studentList;
 	}
