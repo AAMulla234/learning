@@ -8,7 +8,7 @@ import java.io.FileOutputStream;
  * @author akhtar.jahan.qureshi@gmail.com
  *
  */
-public class ExmapleUsingJava9 {
+public class ExampleUsingJava9 {
 
        public static void main(String[] args) throws FileNotFoundException {
              FileOutputStream fileStream = new FileOutputStream("App.log");
