@@ -1,4 +1,4 @@
-package com.pmc.product;
+package com.akhtar.java;
 
 import java.util.ArrayList;
 import java.util.HashSet;
